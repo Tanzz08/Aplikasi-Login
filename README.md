@@ -5,5 +5,5 @@ Alur Fitur Login:
 1.	Memasukkan email dan password
 2.	Memvalidasi masukan.
 3.	Menampilkan halaman home.
-4.	tombol logout untuk keluar dari akun dan kembali ke halaman home
+
 
